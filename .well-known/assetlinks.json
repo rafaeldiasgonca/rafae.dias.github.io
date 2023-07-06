@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "net.weg.wemob",
+    "sha256_cert_fingerprints":
+    ["1E:F8:00:F4:34:5E:BC:38:D4:34:37:1B:95:C1:5F:B2:FA:5A:9F:29:04:6D:60:CC:CE:7A:94:E9:7C:C2:C6:FA"]
+  }
+}]
